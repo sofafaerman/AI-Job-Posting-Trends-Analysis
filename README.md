@@ -30,7 +30,8 @@
 
 ### Top In-Demand Skills
 ![Top Skills](images/top_skills.png)
-*Most frequently required technical skills across all AI job postings*
+
+**Key Insight:** The significant drop-off for ChatGPT, LLM, and LangChain reflects their recent emergence (2022-2023). These technologies were barely mentioned in job postings during the 2019-2022 period, but are likely to see rapid growth in 2024+. This highlights how quickly the AI job market evolves and adapts to new tools and frameworks.
 
 ### Bootstrap Resampling Results
 ![Bootstrap Analysis](images/bootstrap_resampling.png)
